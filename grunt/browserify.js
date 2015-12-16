@@ -9,7 +9,7 @@ module.exports = {
 	},
 	dist: {
 		files: {
-			'build/assets/js/app.js': ['app/assets/js/app.jsx']
+			'app/assets/build/js/app.js': ['app/assets/js/app.jsx']
 		}
 	}
 };
