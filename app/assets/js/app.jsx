@@ -52,6 +52,16 @@ var App = React.createClass({
 						
 					</div>
 				</div>
+
+				<br></br>
+				<br></br>
+				<br></br>
+				<br></br>
+
+				<h2>
+					<p>Shobhit Ghai</p>
+					<a href="http://github.com/shobhitghai">Github</a>
+				</h2>
 			</div>
 		)
 	}
